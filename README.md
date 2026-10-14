@@ -2,6 +2,8 @@
 
 Six notebooks on option pricing and hedging: Black-Scholes, binomial tree, Greeks, a barrier option, delta hedging and option strategies. Each notebook checks its own results.
 
+A short note with the method and results: [note/option-pricing-python.pdf](note/option-pricing-python.pdf).
+
 ## Method
 
 - `01_black_scholes.ipynb`: call and put prices, implied volatility. Put-call parity holds.
